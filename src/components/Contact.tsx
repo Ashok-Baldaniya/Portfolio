@@ -53,7 +53,7 @@ export default function Contact() {
                 </svg>
             ),
             label: "GitHub",
-            value: "ashok-baldaniya",
+            value: "Ashok-Baldaniya",
             href: github,
         },
     ];
